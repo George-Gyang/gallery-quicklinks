@@ -1,0 +1,21 @@
+.side-section {
+  width: 30%;
+}
+
+.main-section{
+    width: 60%;
+    margin-left: 2rem;
+}
+.links{
+    padding-right: 1rem;
+    height: 70vh;
+    overflow-y: scroll;
+}
+
+.links ul li{
+    margin: 1rem auto;
+    border-bottom: 1px solid grey;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem;
+    list-style: none;
+}
